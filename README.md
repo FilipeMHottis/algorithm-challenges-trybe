@@ -29,7 +29,7 @@ Este repositório contém implementações e testes para diversos desafios relac
 1. Clone este repositório: `git@github.com:FilipeMHottis/algorithm-challenges-trybe.git`
 2. Ative o ambiente virtual `python3 -m venv .venv && source .venv/bin/activate`
 3. Instale as dependencias `python3 -m pip install -r dev-requirements.txt`
-4. Navegue até o diretório do desafio desejado: `cd algorithm-challenges-trybe/challengers or cd algorithm-challenges-trybe/test`
+4. Navegue até o diretório do desafio desejado: `cd algorithm-challenges-trybe/challengers` or `cd algorithm-challenges-trybe/test`
 5. Execute os testes: `pytest`
 
 ## Desenvolvedor
